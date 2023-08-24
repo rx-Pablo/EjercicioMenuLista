@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1692736081 source:d:\pablo\universidad pablo\topicos\programas\clase2\main.c
+	"Funciones.h"
+
+1692736426 .h"
+
+1692735910 d:\pablo\universidad pablo\topicos\programas\clase2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692735910 >
+
+1692736426 source:d:\pablo\universidad pablo\topicos\programas\clase2\funciones.c
+	"Funciones.h"
+
+1692827768 source:/home/goose/Documentos/Facultad/Topicos/Clase2/Funciones.c
+	"Funciones.h"
+
+1692827868 /home/goose/Documentos/Facultad/Topicos/Clase2/Funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692827818 source:/home/goose/Documentos/Facultad/Topicos/Clase2/main.c
+	"Funciones.h"
+
+1692890708 source:e:\clase2\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
+1692838990 e:\clase2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692890640 source:e:\clase2\main.c
+	"Funciones.h"
+
